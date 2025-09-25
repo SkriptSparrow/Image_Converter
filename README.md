@@ -51,7 +51,7 @@ python main.py
 ## 📸 Screenshots
 Main window
 
-![Main window](assets/screenshots/app.jpg)
+![Main window](assets/screensots/app.jpg)
 
 ## 📦 Download
 You can download the latest .exe build from the Releases page.
